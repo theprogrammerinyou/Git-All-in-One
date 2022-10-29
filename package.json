@@ -2,6 +2,7 @@
   "name": "git-all-in-one",
   "displayName": "Git All In One",
   "description": "Keeping track of stuff",
+  "publisher": "Shivansh Shukla",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.52.0"
