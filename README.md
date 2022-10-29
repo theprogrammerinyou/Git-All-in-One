@@ -1,6 +1,4 @@
-# Git All In One README
-
-This is the README for your extension "Git ll In One". After writing up a brief description, we recommend including the following sections.
+# Git All In One
 
 ## Features
 
