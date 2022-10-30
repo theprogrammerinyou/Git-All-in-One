@@ -29,5 +29,7 @@ This extension is a collection of commands for git. It is a collection of comman
 ## Known Issues
 
 1. No error messages are shown if the command fails.
+2. Not authenticated error is shown if you are not logged in to git.
+3. Authenticate (using user inputs) if not logged in to git or no global configuration is set
 
 **Enjoy!**
