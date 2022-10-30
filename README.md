@@ -16,6 +16,16 @@ This extension is a collection of commands for git. It is a collection of comman
 2. Also, you need to have a git repo in your project.
 3. You need to have logged in using git while using the command.
 
+### How to use
+1. Go to .vscode folder in your computer ( Only visible if you have vscode installed)
+2. Clone the git repository in that folder.
+3. Now restart vscode.
+4. You should see the "Git All In One" Extension in the activity bar.
+
+5. We would be having a extension in vscode market place once we fix some issues and have more commands in the list. 
+6. Thank you!
+
+
 ## Known Issues
 
 1. No error messages are shown if the command fails.
